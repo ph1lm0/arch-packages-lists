@@ -1,11 +1,11 @@
 base
-linux
-linux-firmware
-intel-ucode
 dosfstools
 e2fsprogs
-networkmanager
-nano
+linux
+linux-firmware
+lsb-release
 man-db
 man-pages
+nano
+networkmanager
 texinfo
