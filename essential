@@ -1,5 +1,7 @@
 base
 base-devel
+device-mapper
+diffutils
 dkms
 dosfstools
 e2fsprogs
