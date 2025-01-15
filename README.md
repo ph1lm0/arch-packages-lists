@@ -5,4 +5,6 @@ git clone https://github.com/ph1lm0/arch-packages-lists.git
 
 cd arch-packages-lists
 
+Essential is used as input for pacstrap 
+
 pacstrap -K /mnt - < essential
