@@ -1,4 +1,6 @@
 base
+base-devel
+dkms
 dosfstools
 e2fsprogs
 linux
@@ -6,5 +8,7 @@ linux-firmware
 lsb-release
 man-db
 man-pages
+mkinitcpio
 nano
+sudo
 texinfo
