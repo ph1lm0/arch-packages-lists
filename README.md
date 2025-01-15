@@ -5,4 +5,4 @@ git clone https://github.com/ph1lm0/arch-packages-lists.git
 
 cd arch-packages-lists
 
-pacstrap -K /mnt - < pacstrap
+pacstrap -K /mnt - < essential
