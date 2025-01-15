@@ -5,6 +5,7 @@ dosfstools
 e2fsprogs
 linux
 linux-firmware
+linux-headers
 lsb-release
 man-db
 man-pages
