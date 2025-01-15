@@ -5,4 +5,4 @@ git clone https://
 
 cd arch-packages-lists
 
-pacstrap -K /mnt - < pacstrap
+pacstrap -K /mnt - < pacstrap-pkgslst
